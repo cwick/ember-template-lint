@@ -62,6 +62,7 @@
 * [require-button-type](rule/require-button-type.md)
 * [require-iframe-title](rule/require-iframe-title.md)
 * [require-input-label](rule/require-input-label.md)
+* [require-lang-attribute](rule/require-lang-attribute.md)
 * [require-valid-alt-text](rule/require-valid-alt-text.md)
 * [require-form-method](rule/require-form-method.md)
 * [self-closing-void-elements](rule/self-closing-void-elements.md)
