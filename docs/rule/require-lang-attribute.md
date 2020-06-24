@@ -26,6 +26,10 @@ This rule **forbids** the following:
 <html>
 ```
 
+```hbs
+<html lang="">
+```
+
 This rule **allows** the following:
 
 ```hbs
@@ -34,6 +38,10 @@ This rule **allows** the following:
 
 ```hbs
 <html lang="en-US">
+```
+
+```hbs
+<html lang={{lang}}
 ```
 
 ## Migration
